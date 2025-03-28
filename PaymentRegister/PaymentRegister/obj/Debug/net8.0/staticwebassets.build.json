@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/U1e9kzzwQRocdclY4x3i4pQg7U5r2cTVWpCycjW2tA=",
+  "Source": "PaymentRegister",
+  "BasePath": "_content/PaymentRegister",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
